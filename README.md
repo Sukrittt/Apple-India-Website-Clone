@@ -1,4 +1,4 @@
 - A website clone of the Apple (India) home page.
 - This is the very first website I made using HTML and CSS.
-- I made this website to practise my CSS skills. 
+- I made this website to practice my CSS skills. 
 - This website is NOT responsive.
